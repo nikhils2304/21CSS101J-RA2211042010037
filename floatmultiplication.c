@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main() {
     double a, b, product;
+    printf("RA2211042010037\n");
     printf("Enter two numbers: ");
     scanf("%lf %lf", &a, &b);  
  
