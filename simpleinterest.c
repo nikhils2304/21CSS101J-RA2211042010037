@@ -2,6 +2,7 @@
 
 main()
 {
+    printf("RA2211042010037\n");
     int p,t;
     float r,si;
     printf("enter a principal,rate,time\n");
