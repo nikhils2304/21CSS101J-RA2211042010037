@@ -5,7 +5,7 @@ int main()
   ang1 = 50, ang2 = 70;
 
     printf("RA2211042010037\n");
-    printf("Input two angles of triangle separated by comma : ");  
+    printf("Input two angles of triangle  : ");  
     scanf("%d, %d", &ang1, &ang2);  
 
      ang3 = 180 - (ang1 + ang2); 
