@@ -7,16 +7,12 @@ int main() {
   printf("Enter second number: ");
   scanf("%lf", &second);
 
-  // first value is assigned to temp
   temp = first;
 
-  // second value is assigned to first
   first = second;
 
-  // value of temp (initial value of first) is assigned to second
   second = temp;
 
-  // %.2lf displays number up to 2 decimal points
   printf("\nAfter swapping, first number = %.2lf\n", first);
   printf("After swapping, second number = %.2lf", second);
   return 0;
