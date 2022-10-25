@@ -5,7 +5,6 @@ int main() {
     double doubleType;
     char charType;
 
-    // variable size is evaluated by sizeof
     print("RA2211042010037\n");
     printf("Size of int: %zu bytes\n", sizeof(intType));
     printf("Size of float: %zu bytes\n", sizeof(floatType));
