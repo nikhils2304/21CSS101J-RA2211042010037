@@ -1,6 +1,6 @@
 #include <stdio.h>
 void main() {
-  printf("RA2211042010002\n\n");
+  printf("RA2211042010037\n");
   int number;
   printf("enter the number : ");
   scanf("%d",&number);
