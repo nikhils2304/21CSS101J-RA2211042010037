@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("RegRA2211042010037\n");
+    printf("RA2211042010037\n");
     int amount_given,bill_amount,quotient,reminder;
     scanf("%d",&amount_given);
     scanf("%d",&bill_amount);
