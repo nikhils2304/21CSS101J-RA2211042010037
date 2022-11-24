@@ -3,7 +3,7 @@
 int main() {
     printf("RA2211042010037\n");
     int number1, number2;
-    printf("Enter the two integers: ");
+    printf("Enter two integers: ");
     scanf("%d %d", &number1, &number2);
     
     if (number1==number2) {
