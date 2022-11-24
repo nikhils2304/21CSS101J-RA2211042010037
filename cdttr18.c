@@ -3,7 +3,7 @@
 int main() {
   printf("RA2211042010037\n");
   int x = 5;
-  x ^= 3;
+  x ^= 4;
   printf("%d", x);
   return 0;
 }
