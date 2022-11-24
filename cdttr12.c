@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("Register number: RA2211042010037\n");
+    printf("RA2211042010037\n");
     int alvqntoffood,messcnt,dividedqnt,remfood;
     scanf("%d",&alvqntoffood);
     scanf("%d",&messcnt);
