@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-  prinf("Register number: RA2211042010037\n");
+  prinf("RA2211042010037\n");
   float a,b;
   scanf("%f",&a);
   scanf("%f",&b);
